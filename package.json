@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_2019",
+  "version": "1.0.0",
+  "description": "Portfolio Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanleee/Portfolio_2019.git"
+  },
+  "author": "Aidan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanleee/Portfolio_2019/issues"
+  },
+  "homepage": "https://github.com/aidanleee/Portfolio_2019#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
